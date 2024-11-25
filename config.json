@@ -1,0 +1,24 @@
+{
+    "limites": {
+        "bandwidth_max": 1000000,
+        "conexiones_max": 5000,
+        "tiempo_maximo": 3600
+    },
+    "evasion": {
+        "rotacion_proxies": true,
+        "modo_sigiloso": true,
+        "fragmentacion": true
+    },
+    "reportes": {
+        "guardar_logs": true,
+        "formato": "json",
+        "nivel_detalle": "alto"
+    },
+    "vectores_ataque": {
+        "syn": true,
+        "udp": true,
+        "http": true,
+        "dns": true,
+        "slowloris": true
+    }
+}

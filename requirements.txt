@@ -1,0 +1,15 @@
+fake-useragent==1.1.1
+requests==2.31.0
+scapy==2.5.0
+python-nmap==0.7.1
+cryptography==41.0.4
+schedule==1.2.0
+colorama==0.4.6
+tqdm==4.66.1
+argparse==1.4.0
+typing==3.7.4.3
+concurrent-futures==3.0.5
+logging==0.5.1.2
+multiprocessing==0.70.15
+datetime==5.2
+json==2.0.9
